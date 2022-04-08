@@ -2,3 +2,4 @@ Now it is modified
 Now it is ready to be commited
 Edit again ithout commiting
 # test line
+Another edit
