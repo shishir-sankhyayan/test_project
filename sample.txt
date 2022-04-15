@@ -4,7 +4,6 @@ Edit again ithout commiting
 # test line
 Another edit
 A new line
-So much hua hai
-Itna kuch kiya hai
-Aur edit kar diya
-Editing on a separate branch
+Editing main branch
+Main --> Fix
+Eit one more line to check merging
